@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.libraries        = 'z', 'c++', 'sqlite3'
   
-  s.dependency 'YHCommonSDK', '~> 1.1.1.5'
+  s.dependency 'YHCommonSDK', '~> 1.1.3'
 
   s.requires_arc = true
 
