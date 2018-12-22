@@ -1,0 +1,6 @@
+framework module YHEhealthcardSDK {
+  umbrella header "YHEhealthcardSDK.h"
+
+  export *
+  module * { export * }
+}
